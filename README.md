@@ -3,7 +3,7 @@
 Este proyecto consiste en una aplicación web que utiliza la cámara web de tu dispositivo para realizar reconocimiento de objetos en tiempo real. Hace uso de la combinación de tecnologías como OpenCV, YOLO (You Only Look Once) y Flask para lograr esta funcionalidad.
 
 ## Requerimientos
-
+Se recomienda crear un entorno virutal para trabajar y no tener ningun problema.
 - Python 3.11.7
 - YOLO
 - OpenCV-Python
