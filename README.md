@@ -16,6 +16,7 @@ Para instalar los requerimientos, puedes ejecutar el siguiente comando:
 ```bash
 pip install -r requirements.txt
 
+```markdown
 ## Uso
 ```bash
 pip install -r requirements.txt
